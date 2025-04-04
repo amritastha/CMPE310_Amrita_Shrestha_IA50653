@@ -1,5 +1,5 @@
 section .data
-    pathname db "randomInt100.txt", 0
+    pathname db "test.txt", 0
     newline db 10, 0
     msg db "Sum: ", 0x0A
 
